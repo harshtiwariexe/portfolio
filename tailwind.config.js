@@ -5,8 +5,8 @@ export default {
     extend: {
       colors: {
         "blur-color": "rgba(63, 119, 189, 0.2)",
-        glass: "rgba(255,255,255,0.50)",
-        darkk: "rgba(255,255,255,0.50)",
+        glass: "rgba(255,255,255,0.4)",
+        darkk: "rgba(160, 160, 160, 0.31)",
       },
     },
   },
